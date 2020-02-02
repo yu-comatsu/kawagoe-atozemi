@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 川越あとゼミ
+subtitle: まちゼミ講座のその先へ
+description: 川越あとゼミとは、大人気イベント「川越まちゼミ」の姉妹イベントです。まちゼミ講座からパワーアップした内容を、まちゼミと同じく原則無料で受講できます。
+keywords: 川越, あとゼミ
+author: cotoLi Web Media Office
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
